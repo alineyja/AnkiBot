@@ -1,4 +1,6 @@
 bot based on creation anki falshcards, can transcript text messages and voice documents/messages.
+
+
 for use:
 create fail .env, and add this:
 TELEGRAM_TOKEN=YOUR_TELEGRAM_TOKEN
