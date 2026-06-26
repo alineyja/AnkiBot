@@ -3,7 +3,11 @@ bot based on creation anki falshcards, can transcript text messages and voice do
 
 for use:
 create fail .env, and add this:
+
+
 TELEGRAM_TOKEN=YOUR_TELEGRAM_TOKEN
+
+
 GOOGLE_API_KEY=GEMINI_KEY
 
 
